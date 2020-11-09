@@ -1,14 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "documents": [
+    {
+      "id": 1,
+      "document": "Document 1",
+      "url": "https://cors-anywhere.herokuapp.com/http://www.pdf995.com/samples/pdf.pdf"
+    },
+    {
+      "id": 2,
+      "document": "Document 2",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "document": "Document 3",
+      "url": ""
+    }
+  ]
 }
